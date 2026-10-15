@@ -1,0 +1,20 @@
+{
+  "name": "com.unimvvm.ui",
+  "version": "0.1.0",
+  "displayName": "UniMvvm",
+  "description": "Explicit, lightweight MVVM bindings for Unity UI.",
+  "unity": "2022.3",
+  "dependencies": {
+    "com.unity.ugui": "1.0.0"
+  },
+  "author": {
+    "name": "Mars"
+  },
+  "samples": [
+    {
+      "displayName": "uGUI Counter",
+      "description": "A small View and ViewModel with a UI composition root.",
+      "path": "Samples~/Counter"
+    }
+  ]
+}

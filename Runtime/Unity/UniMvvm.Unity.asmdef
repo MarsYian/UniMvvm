@@ -1,0 +1,14 @@
+{
+  "name": "UniMvvm.Unity",
+  "rootNamespace": "UniMvvm",
+  "references": ["UniMvvm"],
+  "includePlatforms": [],
+  "excludePlatforms": [],
+  "allowUnsafeCode": false,
+  "overrideReferences": false,
+  "precompiledReferences": [],
+  "autoReferenced": true,
+  "defineConstraints": [],
+  "versionDefines": [],
+  "noEngineReferences": false
+}

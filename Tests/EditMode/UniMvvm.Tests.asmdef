@@ -1,0 +1,9 @@
+{
+  "name": "UniMvvm.Tests",
+  "rootNamespace": "UniMvvm.Tests",
+  "references": ["UniMvvm", "UniMvvm.Unity", "UniMvvm.Unity.UGui"],
+  "includePlatforms": ["Editor"],
+  "optionalUnityReferences": ["TestAssemblies"],
+  "autoReferenced": false,
+  "defineConstraints": []
+}

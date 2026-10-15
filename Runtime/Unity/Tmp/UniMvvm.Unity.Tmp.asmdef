@@ -1,0 +1,20 @@
+{
+  "name": "UniMvvm.Unity.Tmp",
+  "rootNamespace": "UniMvvm.Unity.Tmp",
+  "references": ["UniMvvm", "UniMvvm.Unity", "Unity.TextMeshPro"],
+  "includePlatforms": [],
+  "excludePlatforms": [],
+  "allowUnsafeCode": false,
+  "overrideReferences": false,
+  "precompiledReferences": [],
+  "autoReferenced": true,
+  "defineConstraints": ["UNIMVVM_TMP"],
+  "versionDefines": [
+    {
+      "name": "com.unity.textmeshpro",
+      "expression": "3.0.0",
+      "define": "UNIMVVM_TMP"
+    }
+  ],
+  "noEngineReferences": false
+}

@@ -1,0 +1,14 @@
+{
+  "name": "UniMvvm.Unity.UGui",
+  "rootNamespace": "UniMvvm.Unity.UGui",
+  "references": ["UniMvvm", "UniMvvm.Unity"],
+  "includePlatforms": [],
+  "excludePlatforms": [],
+  "allowUnsafeCode": false,
+  "overrideReferences": false,
+  "precompiledReferences": [],
+  "autoReferenced": true,
+  "defineConstraints": [],
+  "versionDefines": [],
+  "noEngineReferences": false
+}
